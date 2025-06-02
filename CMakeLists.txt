@@ -4,4 +4,5 @@ project(CLionproj)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(CLionproj HW1.cpp)
+add_executable(CLionproj HW1.cpp
+)
