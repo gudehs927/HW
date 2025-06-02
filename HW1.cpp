@@ -45,7 +45,7 @@ int main() {
         }else {
             cout << "다시 입력해주세요";
         }
-
+        cout << '\n' << endl;
         cin >> m;
     }
     cout << "합 : " << sum << endl;
